@@ -701,11 +701,5 @@
 .small_product_box img {
   position: absolute;
   right: 30px;
-  top: 40px;
-}
-
-.small_product_box .blutooth {
-  position: absolute;
-  right: 30px;
-  top: 90px;
+  bottom: 15px;
 }
