@@ -1,5 +1,4 @@
 .home_page {
-  padding-bottom: 60px;
   display: flex;
   flex-direction: column;
 }
@@ -769,6 +768,8 @@
   justify-content: center;
 }
 
+/* EVENT */
+
 .home_page .event_frame {
   position: relative;
   margin-top: 90px;
@@ -780,6 +781,7 @@
   justify-content: center;
 
   background-image: url("../images/icons/event_bg.png");
+  background-size: cover;
 }
 
 .event_frame .container {
